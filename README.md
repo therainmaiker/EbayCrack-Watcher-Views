@@ -3,8 +3,14 @@ Welcome to eBayCrack Vv1.1
 
 
 :Author: TheRainMaker
+
+
 :Date: :)
+
+
 :Version: v1.1
+
+
 :eBay API: 583
 
 eBay4R is a Ruby wrapper for eBay's Web Services SOAP API (v583). Emphasis is
