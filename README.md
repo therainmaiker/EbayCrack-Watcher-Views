@@ -1,6 +1,6 @@
-=================
-Welcome to eBay4R
-=================
+
+Welcome to eBayCrack Vv1.1
+
 
 :Author: TheRainMaker
 :Date: :)
